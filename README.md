@@ -3,7 +3,7 @@
 
 
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmk4MGEwMXFiYmtsYXcwMzhya2c0ZG5iNGQ3N21xOHZlaWNzOHhyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HBDT4QSTpveU/giphy.gif" height="120" /> <p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmk4MGEwMXFiYmtsYXcwMzhya2c0ZG5iNGQ3N21xOHZlaWNzOHhyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HBDT4QSTpveU/giphy.gif" height="180" /> <p align="center">
   Desenvolvedor Fullstack • Web & Mobile <br>
   Santana de Parnaíba, SP 
 </p>
