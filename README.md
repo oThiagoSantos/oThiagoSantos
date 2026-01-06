@@ -62,7 +62,7 @@ Ainda não trabalho, mas estou buscando construir projetos reais para **portfól
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=oThiagoSantos&show_icons=true&theme=dracula&locale=pt-br&v=1" height="160" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=oThiagoSantos&layout=compact&theme=vue-dark&locale=pt-br&v=1" height="160"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=oThiagoSantos&layout=compact&theme=dracula&locale=pt-br&v=1" height="160"/>
 </div>
 
 ---
