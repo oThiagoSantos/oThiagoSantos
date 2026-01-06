@@ -10,10 +10,11 @@
 </div>
 
 ---
-
-### 👨‍💻 Sobre mim
-
-Sou **Thiago Lima dos Santos**, tenho **17 anos** e sou **desenvolvedor web fullstack**, apaixonado por tecnologia, programação e criação de soluções práticas.
+<details>
+  <summary>
+  <h3>👨‍💻 Sobre mim </h3> 
+  </summary>
+Sou <strong>Thiago Lima dos Santos</strong>, tenho <strong>17 anos</strong> e sou <strong>desenvolvedor web fullstack</strong>, apaixonado por tecnologia, programação e criação de soluções práticas.
 
 Atualmente foco em:
 - 🌐 Desenvolvimento **Web**
@@ -23,10 +24,14 @@ Atualmente foco em:
 - 🖥️ Aprender a Linguagem **Kotlin**
 
 Ainda não trabalho, mas estou buscando construir projetos reais para **portfólio**.
- 
+</details>
+
 ---
 
-### 🚀 Tecnologias & Ferramentas
+<details>
+  <summary>
+ <h3> 🚀 Tecnologias & Ferramentas </h3>
+  </summary>
 
 <div align="center">
 
@@ -54,7 +59,8 @@ Ainda não trabalho, mas estou buscando construir projetos reais para **portfól
   <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" height="35" />
   
-</div>
+  </div>
+</details>
 
 ---
 
