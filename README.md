@@ -14,7 +14,7 @@
   <summary>
   <h3>👨‍💻 Sobre mim </h3> 
   </summary>
-Sou <strong>Thiago Lima dos Santos</strong>, tenho <strong>17 anos</strong> e sou <strong>desenvolvedor web fullstack</strong>, apaixonado por tecnologia, programação e criação de soluções práticas.
+Sou <strong>Thiago Lima dos Santos</strong>, tenho <strong>17 anos</strong> e sou <strong>desenvolvedor web fullstack</strong> e <strong>Mobile back-end Junior</strong>, apaixonado por tecnologia, programação e criação de soluções práticas.
 
 Atualmente foco em:
 - 🌐 Desenvolvimento **Web**
@@ -23,20 +23,32 @@ Atualmente foco em:
 - 🧠 Evoluir diariamente como programador
 - 🖥️ Aprender a Linguagem **Kotlin**
 
-Ainda não trabalho, mas estou buscando construir projetos reais para **portfólio**.
+Ainda não atuo na área, mas estou buscando construir projetos reais para **portfólio**.
+</details>
+
+---
+<details>
+  
+  <summary>
+    
+  ### 🛠️ Projeto em Destaque
+  
+  </summary>
+  
+- **Sistema de Gestão de Estoque - Nexbusi**: Criado com Java, PHP, MySQL e Azure Cloud para controle de estoque.
+  
 </details>
 
 ---
 
-<details>
-  <summary>
  <h3> 🚀 Tecnologias & Ferramentas </h3>
-  </summary>
 
 <div align="center">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="35" />
   <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" height="35" />
+  <img width="10"/>        
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35"/>
   <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35"/>
@@ -53,6 +65,8 @@ Ainda não trabalho, mas estou buscando construir projetos reais para **portfól
   <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35"/>
   <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" height="35" />
+  <img width="10"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="35"/>
   <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35"/>
@@ -60,7 +74,6 @@ Ainda não trabalho, mas estou buscando construir projetos reais para **portfól
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" height="35" />
   
   </div>
-</details>
 
 ---
 
