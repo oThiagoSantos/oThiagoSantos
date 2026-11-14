@@ -14,7 +14,7 @@
   <summary>
   <h3>👨‍💻 Sobre mim </h3> 
   </summary>
-Sou <strong>Thiago Lima dos Santos</strong>, tenho <strong>17 anos</strong> e sou <strong>desenvolvedor web fullstack</strong> e <strong>Mobile back-end Junior</strong>, apaixonado por tecnologia, programação e criação de soluções práticas.
+Sou <strong>Thiago Lima dos Santos</strong>, tenho <strong>18 anos</strong> e sou <strong>desenvolvedor web fullstack</strong> e <strong>Mobile back-end Junior</strong>, apaixonado por tecnologia, programação e criação de soluções práticas, além de Estudante de Segurança Informação.
 
 Atualmente foco em:
 - 🌐 Desenvolvimento **Web**
